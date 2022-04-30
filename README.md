@@ -68,4 +68,10 @@ This app uses [***MVVM (Model View View-Model)***] architecture.
 ![](https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
 
 ## Video Functionality
-  
+Note: Exercises Duration are kept short for recording and video length purposes.
+
+
+
+
+https://user-images.githubusercontent.com/70480242/166097208-1d078623-67fa-4959-b959-dc193ffb2d83.mp4
+
