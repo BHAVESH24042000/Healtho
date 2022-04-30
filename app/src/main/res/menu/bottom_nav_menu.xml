@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/dashboardFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_home"
+        android:title="Dashboard"
+        app:cnb_iconColor="@color/home"
+        app:cnb_iconTintMode="src_in" />
+
+    <item
+        android:id="@+id/workoutFragment"
+        android:icon="@drawable/workout"
+        android:title="Workout"
+        android:enabled="true"
+        app:cnb_iconColor="@color/home"
+        app:cnb_iconTintMode="src_in"/>
+
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/profile_icon_selector"
+        android:enabled="true"
+        app:cnb_iconColor="@color/home"
+        app:cnb_iconTintMode="src_in"
+        android:title="Profile" />
+</menu>

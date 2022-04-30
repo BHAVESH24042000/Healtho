@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/home_nav_graph.xml"
+    app:startDestination="@id/dashboardFragment">
+
+    <fragment
+        android:id="@+id/dashboardFragment"
+        android:name="com.example.healtho.homescreens.dashboard.DashboardFragment"
+        android:label="fragment_dashboard"
+        tools:layout="@layout/fragment_dashboard" >
+        <action
+            android:id="@+id/action_dashboardFragment_self"
+            app:destination="@id/dashboardFragment"
+            app:launchSingleTop="true"
+            app:popUpTo="@id/dashboardFragment"
+            app:popUpToInclusive="true" />
+        <action
+            android:id="@+id/action_dashboardFragment_to_workoutFragment"
+            app:destination="@id/workoutFragment"
+            app:launchSingleTop="true"
+            app:popUpTo="@id/workoutFragment"
+            app:popUpToInclusive="true" />
+        <action
+            android:id="@+id/action_dashboardFragment_to_waterStatsFragment"
+            app:destination="@id/waterStatsFragment" />
+        <action
+            android:id="@+id/action_dashboardFragment_to_statsActivity"
+            app:destination="@id/statsActivity"
+            app:launchSingleTop="true"
+            app:popUpTo="@id/statsActivity"
+            app:popUpToInclusive="true" />
+        <action
+            android:id="@+id/action_dashboardFragment_to_authActivity"
+            app:destination="@id/authActivity"
+            app:launchSingleTop="true"
+            app:popUpTo="@id/authActivity"
+            app:popUpToInclusive="true" />
+        <action
+            android:id="@+id/action_dashboardFragment_to_profileFragment2"
+            app:destination="@id/profileFragment2" />
+    </fragment>
+    <fragment
+        android:id="@+id/workoutFragment"
+        android:name="com.example.healtho.homescreens.workout.WorkoutFragment"
+        android:label="fragment_workout"
+        tools:layout="@layout/fragment_workout" >
+        <action
+            android:id="@+id/action_workoutFragment_self"
+            app:destination="@id/workoutFragment"
+            app:launchSingleTop="true"
+            app:popUpTo="@id/workoutFragment"
+            app:popUpToInclusive="true" />
+        <action
+            android:id="@+id/action_workoutFragment_to_dashboardFragment"
+            app:destination="@id/dashboardFragment"
+            app:launchSingleTop="true"
+            app:popUpTo="@id/dashboardFragment"
+            app:popUpToInclusive="true" />
+        <action
+            android:id="@+id/action_workoutFragment_to_exerciseFragment"
+            app:destination="@id/exerciseFragment"
+            app:popUpToInclusive="false" />
+        <action
+            android:id="@+id/action_workoutFragment_to_statsActivity"
+            app:destination="@id/statsActivity"
+            app:launchSingleTop="true"
+            app:popUpTo="@id/statsActivity"
+            app:popUpToInclusive="true" />
+        <action
+            android:id="@+id/action_workoutFragment_to_profileFragment2"
+            app:destination="@id/profileFragment2" />
+    </fragment>
+    <fragment
+        android:id="@+id/exerciseFragment"
+        android:name="com.example.healtho.homescreens.workout.ExerciseFragment"
+        android:label="fragment_exercise"
+        tools:layout="@layout/fragment_exercise" >
+        <action
+            android:id="@+id/action_exerciseFragment_to_dashboardFragment"
+            app:destination="@id/dashboardFragment"
+            app:launchSingleTop="true"
+            app:popUpTo="@id/dashboardFragment"
+            app:popUpToInclusive="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/waterStatsFragment"
+        android:name="com.example.healtho.homescreens.stats.waterstats.WaterStatsFragment"
+        android:label="fragment_water_stats"
+        tools:layout="@layout/fragment_water_stats" >
+        <action
+            android:id="@+id/action_waterStatsFragment_to_dashboardFragment"
+            app:destination="@id/dashboardFragment"
+            app:launchSingleTop="true"
+            app:popUpTo="@id/dashboardFragment"
+            app:popUpToInclusive="true" />
+    </fragment>
+    <activity
+        android:id="@+id/statsActivity"
+        android:name="com.example.healtho.homescreens.stats.StatsActivity"
+        android:label="activity_stats"
+        tools:layout="@layout/activity_stats" />
+    <activity
+        android:id="@+id/authActivity"
+        android:name="com.example.healtho.auth.AuthActivity"
+        android:label="activity_auth"
+        tools:layout="@layout/activity_auth" />
+    <fragment
+        android:id="@+id/profileFragment2"
+        android:name="com.example.healtho.homescreens.profile.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" >
+        <action
+            android:id="@+id/action_profileFragment2_to_dashboardFragment"
+            app:destination="@id/dashboardFragment" />
+        <action
+            android:id="@+id/action_profileFragment2_to_workoutFragment"
+            app:destination="@id/workoutFragment" />
+    </fragment>
+</navigation>

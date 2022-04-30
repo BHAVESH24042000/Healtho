@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android projects/Healtho/app/src/main/res/drawable-v24/circular_color_background.xml" value="0.127" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/drawable-v24/circular_progress_bar.xml" value="0.127" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/drawable-v24/circular_progress_gray.xml" value="0.127" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/drawable-v24/gradient.xml" value="0.1435" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/drawable-v24/ic_baseline_close_24.xml" value="0.1" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/drawable-v24/ic_clock.xml" value="0.1" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/drawable-v24/ic_logout.xml" value="0.1" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/drawable-v24/ic_water.xml" value="0.1005" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/drawable-v24/icon_bg.xml" value="0.114" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/drawable-v24/item_circular_thin_color_border.xml" value="0.16" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/drawable-v24/mini_card_bg.xml" value="0.114" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/drawable-v24/underline.xml" value="0.1" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/drawable/alert_dialog_bg.xml" value="0.1" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/drawable/baseline_logout_black_24dp.xml" value="0.1195" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/drawable/baseline_query_stats_black_24dp.xml" value="0.1455" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/drawable/bottom_nav_bg.xml" value="0.135" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/drawable/bottom_sheet_bg.xml" value="0.114" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/drawable/divider.xml" value="0.114" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/drawable/ic_back.xml" value="0.19583333333333333" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/drawable/ic_home.xml" value="0.1" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/drawable/ic_profile.xml" value="0.1" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/drawable/ic_profile_filled.xml" value="0.1" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/drawable/ic_stats.xml" value="0.135" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/drawable/ic_stats_filled.xml" value="0.135" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/drawable/item_circular_color_accent_border.xml" value="0.1" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/drawable/item_color_accent_border_ripple_background.xml" value="0.1" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/drawable/next_button.xml" value="0.19583333333333333" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/drawable/notiflogo.xml" value="0.1025" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/drawable/profile_icon_selector.xml" value="0.1" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/drawable/rounded_button.xml" value="0.114" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/drawable/rounded_primary_button.xml" value="0.19583333333333333" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/drawable/rounded_text_box.xml" value="0.1" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/drawable/stats_icon_selector.xml" value="0.135" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/drawable/triangle.xml" value="0.1675925925925926" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout-v28/fragment_water_dashboard.xml" value="0.22" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout-v28/fragment_workout.xml" value="0.1796875" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout-v28/item_exercise_status.xml" value="0.1796875" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout-v28/loading.xml" value="0.1796875" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout-v28/sleep_list_item.xml" value="0.1796875" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout-v28/water_list_item.xml" value="0.3333333333333333" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout/activity_auth.xml" value="0.1796875" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout/activity_splash.xml" value="0.16666666666666666" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout/activity_stats.xml" value="0.1796875" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout/activity_user_detail.xml" value="0.1796875" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout/fragment_add_sleep_dialog.xml" value="0.1796875" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout/fragment_add_water_dialog.xml" value="0.1796875" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout/fragment_dashboard.xml" value="0.275" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout/fragment_edit_water_limit.xml" value="0.1796875" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout/fragment_exercise.xml" value="0.22" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout/fragment_getting_started.xml" value="0.22" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout/fragment_maps.xml" value="0.1" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout/fragment_no_internet_dialog.xml" value="0.1796875" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout/fragment_profile.xml" value="0.1796875" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout/fragment_sleep_dashboard.xml" value="0.22" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout/fragment_sleep_stats.xml" value="0.1796875" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout/fragment_statistics.xml" value="0.1796875" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout/fragment_user_age.xml" value="0.1796875" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout/fragment_user_detail.xml" value="0.1" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout/fragment_user_weight.xml" value="0.1796875" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout/fragment_username.xml" value="0.1796875" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout/fragment_water_dashboard.xml" value="0.22" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout/fragment_water_stats.xml" value="0.1796875" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout/fragment_workout.xml" value="0.16666666666666666" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout/fragment_workout_stats.xml" value="0.1796875" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout/loading.xml" value="0.1796875" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout/sleep_list_item.xml" value="0.1796875" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout/temp.xml" value="0.22" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/layout/water_list_item.xml" value="0.22" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1796875" />
+        <entry key="..\:/android projects/Healtho/app/src/main/res/menu/menu.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="username_illustration_size">300dp</dimen>
+    <dimen name="gettingStarted_illustration_size">300dp</dimen>
+    <dimen name="onBoarding_illustration_size">240dp</dimen>
+    <dimen name="no_internet_anim_size">200dp</dimen>
+    <dimen name="loadingAnimSize">150dp</dimen>
+    <dimen name="loadingAnimPadding">2dp</dimen>
+    <dimen name="loadingAnimCornerRadius">144dp</dimen>
+    <dimen name="boundary">16dp</dimen>
+    <dimen name="waterQuantityImageSize">48dp</dimen>
+</resources>
