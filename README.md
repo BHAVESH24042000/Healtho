@@ -19,6 +19,17 @@ It uses Firebase Firestore its backend. It uses Firebase Authentication for emai
 - **Profile** - Shows user's profile.
 
 
+## 📸 Screenshots
+
+|||||
+|:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------: |:-----------------------------------------: |
+| ![](media/splashscreen.jpg) | ![](media/loginscreen.jpg) | ![](media/nicknamescreen.jpg) | ![](media/agescreen.jpg) |
+| ![](media/weightscreen.jpg) |  ![](media/waterscreen.jpg)  | ![](media/sleepscreen.jpg) | ![](media/workoutscreen.jpg)    | 
+| ![](media/exercise1screen.jpg) | ![](media/exercise2screen.jpg)    | ![](media/exercise3screen.jpg)      | ![](media/exercise4screen.jpg) |
+| ![](media/waterstatsscreen.jpg)  |    ![](media/sleepstatsscreen.jpg)    | ![](media/workoutstatsscreen.jpg)        | ![](media/profilescreen.jpg) |
+
+
+
 ### Technical details 
 
 - Healtho uses Firebase for user authentication, it supports email based authentication and Google authentication
@@ -55,4 +66,6 @@ It uses Firebase Firestore its backend. It uses Firebase Authentication for emai
 This app uses [***MVVM (Model View View-Model)***] architecture.
 
 ![](https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
+
+## Video Functionality
   
