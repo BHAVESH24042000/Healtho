@@ -1,11 +1,9 @@
 
 # **Healtho** 
 
-**Healtho** is an app to track your daily water intake , sleep , workout exercises and boost your work efficiency.
+## Introduction
 
-
-## About
-
+**Healtho** is an application which can be used to keep records of individual's water intake , daily exercises routine and sleep amount.
 It uses Firebase Firestore its backend. It uses Firebase Authentication for email based auth and Google auth. 
 
 ### App Features
